@@ -1,0 +1,43 @@
+
+ body {
+     text-align: center;
+     font-family: 'Amatic SC', cursive;
+ }
+ .note {
+    font-size: 25px;
+    color: 
+   
+
+    #b687e6
+
+
+  ;
+}
+.copy_right_footer {
+  position:fixed ;
+  color: #262524;
+  bottom: 0;
+  width: 100%;
+  font-size: 25px;
+  background-color: 
+  #b687e6
+  ;
+  line-height: 3;
+  text-align: center;
+  }
+  canvas {
+  border: 5px 5px solid #de7709;
+  border-radius:  20px; 
+  box-shadow: 5px 5px 5px #a69f81;
+  margin-top: 150px;
+  }
+  .heading
+  {
+    color:#262524;
+    font-size: 40px;
+    width: 100%;
+    height: 16%;
+    margin: 0px;
+    box-shadow:5px 5px 5px #a69f81;
+    background-color: #ffba19;
+  }
